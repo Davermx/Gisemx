@@ -1,0 +1,64 @@
+# humanstxt.org/
+
+                                                                                                                                                           
+                                                                                                                                            
+                                                                                                                        
+                        :j:                                                                                             
+                      .isLYi.                                                                                           
+                                                                                                                        
+                        .r7:                                                                                            
+           :           gBBQBQr                                                                                          
+        :qq.          PQPKPPQB           S5                                                                             
+     :udDb            qgSXXqZQ            BBgs       SBMDgDgDMBB                                                                   
+  r1PXX5d             qZX5KXZM            .BBQBQS:   SBMDgDgDMBB                                                        
+2155j1J52             Xg5KSKER             gBMMBBBB                                                          
+17uJJYjUK             PZXSKXZM             qBEgDQBB  DBBBBBQBBBB                                                        
+YvLJsJs1Xr            dMSqXPDB             BRDZDgBM  KBQMQMRMQQB                                                        
+J7JYssjJIPi           JBMdZgBg            RBgEDZMBQ  IBggDgDggBB                                                        
+L7LJYJsuu5dU           rPQQgu           :BQgEDZggBM  SBMDgDgDMBB   gBBBBBBBBQBBBBBBBBBBBBBBB   ZBBQBBBBBBBBBBBBBBBBBBBR.
+J7sYJsjJ1u2qEu.                       iDBQgZDEDZRBQ  5BMgDgDggBQ  MBBBBBBBBBBBBBBBBBBBBBBBBB  DBBBBQBBBBBBBQBBBBBQBBBBBZ
+YvYJYJYuJ1j2IEEP7.                .iIBBBDDdDEDEggBM  SBMDMDggRBB  ZBMMgMgggRRQQBQBQBQBQBQBBB  bBMMgMDMgRMQQQRQMgDMgMgRBS
+s7ssssusuj1u22KEBBBM:        .LqMBBBBMDdEdZdDEDDgBQ  IBggDMgggBQ  EQRDMDMDgQP                 bBMggDMg       sBDggMDggB2
+YvYJYJsuJuJUUPZZI7::      7PQBBQggZDdEdZdZEDEZEggBR  XBRDMDggMBB  gBQMgMgMgQRQQBQBQBQBQQBQZ:  qBgMgMDMgMMQQBQQMRgMgMgQBb
+s7JsJYjJuj2SZS:        .KQBMDbEdDZggQRBBBBBDDEgZRBQ  IBMggggMgBB  iBBQBQQQBQBBBBBQQRQRQRQQBB  bQRggDggMgQBBQBBBQQQBQBBB:
+L7LJYjsuu2KP:         UBgEERQBBBBBBQRMdPUvjQDDZggBM  SBRDgggDMBB                  RMgggMgMBB  qBggDgDgDQb. 
+s7sYJsJJUq5          PBqKPP77i:..          QQZgZRBQ  5BMMggggMBQ  vBBMgDgZgDgDgZDgMgggMggMBB  EBQgMgMgMgMDgDgDgDgDggQBBs
+Y7YJsJs1S5           gdKSgi                BRDZggBM  PBBQBBBQBBB   .BBBBBBBBBBBBBBQBBBBBBBBB  DBBBQBBBBBBBBBBBBBBBQBBB7 
+J7JYJYuuP            bd5XZr                BQZgZMBQ  EBBBBBBBQBQ     BBBBQBBBQBBBBBQBBBBBBB:  .DBBBBBBBBBBBQBBBBBBBBB:  
+1sjusjJIX            EPX5PPKKgD            BRDZgRBQ                                                                     
+YJKI5uU2q            dd5SSPZgQB            BBMBBBBZ                                                                     
+  .72PKKd:           gbX5KSKKDQ           :BBBBP:                                                                       
+      r2MR.          XQqKSqXPgB          1BB5.                                                                          
+         vS:          ZBDZEDRBI        .XD.                                                                             
+           ..          rKbgEKi         .                                                                                
+                                                                                                                        
+                  .ijUY:...:vs7.                                                                                        
+                      :IEQDXi                                                                                                                                                                                                                            
+
+
+
+# TEAM 
+  David Aguilera
+	Engineer | Consultor IT | Experto En Facturacion Electronica | Diseñador | Entrepreneur | 	
+	Contacto: info [at] daguilera.com.mx
+	Twitter personal: @davermx
+	Intagram: @iamdaguilera
+	From: Cancun, Mexico
+
+# THANKS
+	Materializecss  http://materializecss.com/   
+	Fontawesome     http://fontawesome.io/
+	CloudFlare      https://www.cloudflare.com/
+
+
+
+# TECHNOLOGY 
+  * Frontend
+        HTML5, CSS3, Materializecss, FontAwesome, Javascript, Php, Google Font Api,
+  * Backend
+        Nginx, Cloudflare, php,
+  * Tools/Platforms
+        illustrator, hostgator
+  * IDEs
+        Visual Studio Code, Gitkraken 
+                                                                               
